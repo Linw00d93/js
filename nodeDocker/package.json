@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "create a dockerfile on Nodejs project",
+  "author": "bruce wayne",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "clean": "^4.0.2",
+    "core-util-is": "^1.0.2",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "yargs": "^15.3.1"
+  }
+}
